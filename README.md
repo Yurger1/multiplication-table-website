@@ -1,1 +1,9 @@
-# multiplication-table-website
+# Multiplication Table Website
+
+Це простий вебсайт з таблицею множення.
+
+## Опублікований сайт
+[Переглянути сайт](https://ваше-ім'я.github.io/назва-репозиторію/)
+
+## Репозиторій
+[GitHub Репозиторій](https://github.com/ваше-ім'я/назва-репозиторію)
